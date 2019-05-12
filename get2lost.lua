@@ -67,7 +67,7 @@ local function AudioVizualier()
 	end
 end
 
-sound.PlayURL("https://gvac.cz/assets/dj.mp3", "noblock", function(s)
+sound.PlayURL("https://instaud.io/_/3FvL.mp3", "noblock", function(s)
 	if not IsValid(s) then return end
 	audio = s
 	
